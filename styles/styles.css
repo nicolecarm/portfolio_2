@@ -1,0 +1,43 @@
+body {
+  background-color: lightgrey;
+}
+
+div {
+  border: 2px dashed green;
+  width: 30vw;
+}
+
+iframe {
+  display: block;
+  margin: auto;
+}
+
+img {
+  border: 2px dashed white;
+  margin: 0;
+  padding: 0;
+  width: 400px;
+  display: inline;
+}
+
+#coco-notes {
+  width: 900px;
+}
+
+#ict {
+  width: 2000px;
+  height: 700px;
+}
+
+#ict-notes {
+  width: 1000px;
+}
+
+#hive {
+  width: 1600px;
+  height: 700px;
+}
+
+p {
+  font-size: 20PX;
+}
