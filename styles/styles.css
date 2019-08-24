@@ -1,3 +1,15 @@
+h1 {
+  font-size: 100px;
+  border: 2px dashed green;
+  overflow: auto;
+}
+
+p {
+  text-align: center;
+  font-family: "Arial";
+  font-size: 30px;
+}
+
 body {
   background-color: lightgrey;
 }
@@ -36,8 +48,4 @@ img {
 #hive {
   width: 1600px;
   height: 700px;
-}
-
-p {
-  font-size: 20PX;
 }
