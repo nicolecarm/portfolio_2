@@ -17,6 +17,7 @@ body {
 div {
   border: 2px dashed green;
   width: 30vw;
+  overflow: auto;
 }
 
 iframe {
